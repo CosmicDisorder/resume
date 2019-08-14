@@ -15,24 +15,24 @@ LinkedIn: [https://www.linkedin.com/in/cosmicdisorder](https://www.linkedin.com/
 * Built multiple in class projects
 
 ## Development Skills
-In order of familiarity:
+In order of familiarity
 * Languages: Java, Python, HTML/CSS, SQL
 * Frameworks: Spring Boot, Flask
 * Tools: Thymeleaf, SQLAlchemy
 * Concepts: Git, MVC, OOP, Agile
 
 ## Projects
-**[AnteFare](https://github.com/CosmicDisorder/antefare)**
-Current project being completed in tandem with Liftoff
+[AnteFare](https://github.com/CosmicDisorder/antefare)    
+**Current project being completed in tandem with Liftoff**
 * Java/Spring Boot application that updates restaurants' online menus with information from their point-of-sales systems
 
-**[Cheese](https://github.com/CosmicDisorder/cheese-mvc-persist)**
-School project completed for LC101, it allows usesrs to create, curate, and delete cheeses, cheese categories, and cheese menues.
+[Cheese](https://github.com/CosmicDisorder/cheese-mvc-persist)    
+**School project completed for LC101, it allows usesrs to create, curate, and delete cheeses, cheese categories, and cheese menues.**
 * Java, Spring Boot, Thymeleaf, MySQL, HTML
 * Views for cheese caategoreis or menus
 
-**[Blogz](https://github.com/CosmicDisorder/blogz)**
-School project completed for LC101, it allows users to signup, create, and read blog posts.
+[Blogz](https://github.com/CosmicDisorder/blogz)    
+**School project completed for LC101, it allows users to signup, create, and read blog posts.**
 * Python, Flask, SQLAlchemy, Jinja, and HTML
 * Views by date/time or by user
 * Beyond the assigned tasks I included a feature that hashed user signup
