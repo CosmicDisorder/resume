@@ -1,6 +1,8 @@
 # Mike Harris
 e-mail: <mike.ghazi.harris@gmail.com>
+
 github: [http://github.com/CosmicDisorder][git]
+
 LinkedIn: [https://www.linkedin.com/in/cosmicdisorder/][linkedin]
 
 ## Relevant Experience
@@ -10,7 +12,7 @@ LinkedIn: [https://www.linkedin.com/in/cosmicdisorder/][linkedin]
 * Mentorship through a personal project
 
 **[LC101](https://www.launchcode.org/lc101): January 2019 - May 2019**
-* 20 week program that focuses on programming fundamentls, web basics, and full-stack development in Python and Java 
+* 20 week program that focuses on programming fundamentls and full-stack web development in Python and Java 
 * Curriculum covered: Python, Flask, Ninja2, SQLAlchemy, Java, Spring Boot, MySQL, Thymeleaf 
 * Built multiple in class projects
 
