@@ -1,7 +1,7 @@
 # Mike Harris
 e-mail: <mike.ghazi.harris@gmail.com>    
-github: [http://github.com/CosmicDisorder][git]    
-LinkedIn: [https://www.linkedin.com/in/cosmicdisorder/][linkedin]
+github: (http://github.com/CosmicDisorder)[http://github.com/CosmicDisorder]    
+LinkedIn: (https://www.linkedin.com/in/cosmicdisorder/)[https://www.linkedin.com/in/cosmicdisorder/]
 
 ## Relevant Experience
 **[Liftoff](https://www.launchcode.org/liftoff): July 2019 - September 2019**
