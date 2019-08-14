@@ -1,8 +1,6 @@
 # Mike Harris
-e-mail: <mike.ghazi.harris@gmail.com>
-
-github: [http://github.com/CosmicDisorder][git]
-
+e-mail: <mike.ghazi.harris@gmail.com>    
+github: [http://github.com/CosmicDisorder][git]    
 LinkedIn: [https://www.linkedin.com/in/cosmicdisorder/][linkedin]
 
 ## Relevant Experience
