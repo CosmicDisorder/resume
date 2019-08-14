@@ -1,7 +1,7 @@
 # Mike Harris
-e-mail: <mike.ghazi.harris@gmail.com>
-github: [http://github.com/CosmicDisorder][git]
-LinkedIn: [https://www.linkedin.com/in/cosmicdisorder/][linkedin]
+e-mail: <mike.ghazi.harris@gmail.com>    
+github: [http://github.com/CosmicDisorder](http://github.com/CosmicDisorder)    
+LinkedIn: [https://www.linkedin.com/in/cosmicdisorder](https://www.linkedin.com/in/cosmicdisorder)
 
 ## Relevant Experience
 **[Liftoff](https://www.launchcode.org/liftoff): July 2019 - September 2019**
@@ -10,29 +10,29 @@ LinkedIn: [https://www.linkedin.com/in/cosmicdisorder/][linkedin]
 * Mentorship through a personal project
 
 **[LC101](https://www.launchcode.org/lc101): January 2019 - May 2019**
-* 20 week program that focuses on programming fundamentls, web basics, and full-stack development in Python and Java 
+* 20 week program that focuses on programming fundamentls and full-stack web development in Python and Java 
 * Curriculum covered: Python, Flask, Ninja2, SQLAlchemy, Java, Spring Boot, MySQL, Thymeleaf 
 * Built multiple in class projects
 
 ## Development Skills
-In order of familiarity:
+In order of familiarity
 * Languages: Java, Python, HTML/CSS, SQL
 * Frameworks: Spring Boot, Flask
 * Tools: Thymeleaf, SQLAlchemy
 * Concepts: Git, MVC, OOP, Agile
 
 ## Projects
-**[AnteFare](https://github.com/CosmicDisorder/antefare)**
-Current project being completed in tandem with Liftoff
+[AnteFare](https://github.com/CosmicDisorder/antefare)    
+**Current project being completed in tandem with Liftoff**
 * Java/Spring Boot application that updates restaurants' online menus with information from their point-of-sales systems
 
-**[Cheese](https://github.com/CosmicDisorder/cheese-mvc-persist)**
-School project completed for LC101, it allows usesrs to create, curate, and delete cheeses, cheese categories, and cheese menues.
+[Cheese](https://github.com/CosmicDisorder/cheese-mvc-persist)    
+**School project completed for LC101, it allows usesrs to create, curate, and delete cheeses, cheese categories, and cheese menues.**
 * Java, Spring Boot, Thymeleaf, MySQL, HTML
 * Views for cheese caategoreis or menus
 
-**[Blogz](https://github.com/CosmicDisorder/blogz)**
-School project completed for LC101, it allows users to signup, create, and read blog posts.
+[Blogz](https://github.com/CosmicDisorder/blogz)    
+**School project completed for LC101, it allows users to signup, create, and read blog posts.**
 * Python, Flask, SQLAlchemy, Jinja, and HTML
 * Views by date/time or by user
 * Beyond the assigned tasks I included a feature that hashed user signup
